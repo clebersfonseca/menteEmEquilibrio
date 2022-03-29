@@ -1,6 +1,6 @@
 # Mente em Equilibrio
 
-![Logo Mente em Equilibrio](https://raw.githubusercontent.com/clebersfonseca/menteEmEquilibrio/main/assets/logo2.png)
+![Logo Mente em Equilibrio](https://raw.githubusercontent.com/clebersfonseca/menteEmEquilibrio/main/assets/logo2.png){width=50%}
 
 Trabalho apresentado como TCC do curso técnico em informática, pela aluna Melissa Ribeiro Rodrigues.
 
