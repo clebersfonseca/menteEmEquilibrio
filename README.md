@@ -6,7 +6,7 @@ Trabalho apresentado como TCC do curso técnico em informática, pela aluna Meli
 
 ## Montagem do servidor
 
-Criar o banco de dados utilizado o arquivo sql disponível na pasta contrib, o mesmo foi extraído do phpMyAdmin.
+Criar o banco de dados utilizado o [arquivo sql](contrib/banco.sql) disponível na pasta contrib, o mesmo foi extraído do phpMyAdmin.
 
 Editar o arquivo [de enviar e-mail](enviarEmail.php) para inserir o e-mail para envio da confirmação/cancelamento de consulta.
 
